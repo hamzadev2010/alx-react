@@ -1,4 +1,5 @@
 //a function named mergeDeeplyElements
+
 import { Map } from 'immutable';
 
 export default function mergeDeeplyElements(page1, page2) {
